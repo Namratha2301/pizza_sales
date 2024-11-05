@@ -47,10 +47,4 @@ This repository contains a comprehensive analysis of pizza sales, offering valua
 2. **Seasonal Trends**: Examining sales over multiple years could reveal seasonal patterns and aid in forecasting.
 3. **Detailed Time Analysis**: A deeper dive into daily and hourly trends could improve operational efficiency.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This `README.md` serves as an overview of the sales data and provides actionable insights and potential areas for further analysis.
